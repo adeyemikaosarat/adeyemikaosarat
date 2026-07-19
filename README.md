@@ -25,14 +25,14 @@ When I'm not working with data, I enjoy listening to music, vacation, cooking. I
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Creating an interactive Ecommerce Sales & Customer Insight Dashboard in Power Bi.]  
-- **Project B:** [Creating an interactive HR Analytics: Employee Attrition & Performance Insights in Power Bi.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** [Data Analytics Projects: Creating hands-on projects focused on data cleaning, dashboard development, data visualization, and business reporting using Excel and Power BI.]  
+- **Project B:** [Building My Online Presence: Growing my professional brand on LinkedIn and X by sharing insights and projects around data and automation.]
+- **Project C:** [Automated Request Slip System: Built a digital workflow that replaces paper-based request slips using Google Forms, Sheets, and AutoCrat to generate instant approval documents.]
 
 ## 🌱 Currently Learning 
 
 - [Data Analyst]
-- [Project Managment]
+  
 
 ## 🛠️ Technical Skillset
 
