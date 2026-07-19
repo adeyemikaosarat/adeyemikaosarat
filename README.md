@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/adeyemi-kaosarat-451ab635a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://X.com/Ayweb3_"><img src="https://img.shields.io/badge/Twitter-Connect-black?style=for-the-badge&logo=twitter"></a>
+  <a href="https://X.com/Ayweb3_"><img src="https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=twitter"></a>
   <a href="mailto:kaosaratadeyemi808@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
