@@ -31,7 +31,7 @@ When I'm not working with data, I enjoy listening to music, vacation, cooking. I
 
 ## 🌱 Currently Learning 
 
-- [Data Analyst]
+- Data Analyst
   
 
 ## 🛠️ Technical Skillset
